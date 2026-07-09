@@ -17,6 +17,10 @@ Built for legitimate Minecraft players.
 [Documentation](#) •
 [Releases](../../releases)
 
+<br><br>
+
+<img src="./assets/preview.png" width="900" alt="Velix Launcher Preview">
+
 </div>
 
 ---
