@@ -19,7 +19,7 @@ Built for legitimate Minecraft players.
 
 <br><br>
 
-<img src="./assets/preview1.png" width="900" alt="Velix Launcher Preview">
+<img src="./assets/preview.png" width="900" alt="Velix Launcher Preview">
 
 </div>
 
