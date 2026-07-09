@@ -13,7 +13,7 @@ Built for legitimate Minecraft players.
 
 <br>
 
-[Website](https://velixlauncher.com) •
+[Website](https://velix.nexoruz.my.id) •
 [Documentation](#) •
 [Releases](../../releases)
 
